@@ -120,7 +120,7 @@ def main():
     st.markdown('''
                 Generate SEO optimized Blog FAQs - powered by AI (OpenAI GPT, Gemini Pro).
                 Implemented by [Alwrity](https://alwrity.netlify.app).
-                Know more: [Google's Stance on AI generated content]()
+                Know more: [Google's Stance on AI generated content](https://alwrity.netlify.app/post/googles-guidelines-on-using-ai-generated-content-everything-you-need-to-know)
                 In short, write for human readers & Not for search engine. Provide value to Readers & Not hack for rankings..
                 ''')
 
